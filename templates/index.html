@@ -37,11 +37,17 @@
 </div>
 
 <script>
+   /**
+    * Ajoute une valeur (chiffre ou opérateur) à la fin de la chaîne actuelle dans l'afficheur.
+    */
    function appendToDisplay(value) {
       const display = document.getElementById('display');
       display.value += value;
    }
 
+   /**
+    * Réinitialise l'afficheur
+    */
    function clearDisplay() {
       document.getElementById('display').value = '';
    }
