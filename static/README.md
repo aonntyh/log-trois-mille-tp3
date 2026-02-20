@@ -1,7 +1,7 @@
 # Module : Statique
 Ce répertoire contient le fichier statique nécessaire à l'interface utilisateur de la calculatrice. Son rôle est de séparer la présentation visuelle de la logique métier et du balisage HTML, afin de faciliter la maintenance du design sans toucher au code source.
 
-## Responsabilités
+## fichier et Responsabilités
 * **style.css** : Définit l'identité visuelle de l'application. 
     * Gère la mise en page responsive via Flexbox et CSS Grid.
     * Contient les styles spécifiques pour le boîtier de la calculatrice (`.calculator`), l'écran d'affichage (`#display`) et la grille de boutons (`.buttons`).
