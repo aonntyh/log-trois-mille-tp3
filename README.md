@@ -7,12 +7,11 @@ Suivez les instructions suivantes pour configurer l'environnement de développem
 
 1. clonez le dépôt : 
 git clone https://github.com/aonntyh/log-trois-mille-tp3.git
-cd log-trois-mille-tp3
 
-2. Créer un environnement virtuel : 
+3. Créer un environnement virtuel : 
 python -m venv venv
 
-3. installez les dépendances : 
+4. installez les dépendances : 
 pip install Flask
 
 # Instructions d'utilisation
