@@ -16,10 +16,12 @@ pip install Flask
 
 # Instructions d'utilisation
 1. Lancement de l'application
+
 Pour démarrer le serveur de développement, exécutez la commande suivante à la racine du projet :
 python app.py
 
 2. Fonctionnalités 
+
 Saisie interactive : Utilisez le pavé numérique affiché à l'écran pour composer vos expressions. 
 
 Calcul serveur : Les calculs sont traités côté back-end pour garantir la précision. 
